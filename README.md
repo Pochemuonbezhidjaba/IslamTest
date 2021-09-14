@@ -1,2 +1,2 @@
 # IslamTest
-Got init
+Git init
