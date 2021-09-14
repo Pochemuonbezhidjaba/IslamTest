@@ -1,2 +1,1 @@
 # IslamTest
-Git init
